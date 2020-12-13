@@ -3,7 +3,7 @@
 ### Title: Generate report from HPE Global Dashboard in CSV format                    ###
 ### Version: 01                                                                       ###
 ### Published: 13th December 2020                                                     ###
-### Author: Karn Kumar (karn.itguy@gmail.com)                                           ###
+### Author: Karn Kumar (karn.itguy@gmail.com)                                         ###
 ### Usage: python hpe_OneView_Report.py                                               ###
 #########################################################################################
 import pandas as pd
